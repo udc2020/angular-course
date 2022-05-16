@@ -1,0 +1,11 @@
+button {
+   font-size: 2rem;
+   margin-block: 1em;
+   border: none;
+   background-color:aqua ;
+   padding:.5em 2em;
+   color: white; 
+}
+button:last-child{
+   margin-right: 1em;
+}
